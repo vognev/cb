@@ -29,7 +29,7 @@
         });
 
         $.fn.uploader.defaults({
-            "base": "64-",
+            "base": "img/64-",
             "types": { TYPE_DEFAULT: "default.png" },
             "mimes": {
                 "application/octet-stream": "default.png",
